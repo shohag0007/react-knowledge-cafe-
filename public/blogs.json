@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/YWGzLXP/pic1.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/4RhHD0x/a1.jpg",
+      "posted_date": "2024-03-14",
+      "reading_time": 10,
+      "hashtags": ["fiction", "writing", "books"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/7g01TWL/pic2.jpg",
+      "title": "Dolor Sit Amet",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/S7v1tNR/a2.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 8,
+      "hashtags": ["philosophy", "mindfulness", "life"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/dWGRQZB/pic3.jpg",
+      "title": "Consectetur Adipiscing",
+      "author": "Alice Johnson",
+      "author_img": "https://i.ibb.co/ZGy896N/a3.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 12,
+      "hashtags": ["science", "technology", "future"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/Zf8V9V6/pic4.jpg",
+      "title": "Sed Do Eiusmod Tempor",
+      "author": "Mark Wilson",
+      "author_img": "https://i.ibb.co/ZLMBsrR/a4.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 15,
+      "hashtags": ["coding", "programming", "development"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/CMbcQD1/pic5.jpg",
+      "title": "Labore Et Dolore Magna",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/9yy0yXv/a5.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 7,
+      "hashtags": ["art", "creativity", "design"]
+    }
+  ]
+  
